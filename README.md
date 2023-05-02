@@ -1,8 +1,8 @@
 # Hey there :wave:
 ![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-720x426.png)<br/>
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&center=true&color=F7EC91&width=435&lines=I'm+Sumit+Hiras!" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&center=true&color=d402fe&width=435&lines=I'm+Sumit+Hiras!" style="max-width: 100%;">
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=24&pause=1000&color=18F73D&multiline=true&width=435&lines=I+am+an+aspiring+Frontend+Developer+from+India!" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=24&pause=1000&color=2cfe02&multiline=true&width=435&lines=I+am+an+aspiring+Frontend+Developer+from+India!" alt="Typing SVG" /></a><br/>
 <img align="right" width="37%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Coding" />
 <br/>
 
